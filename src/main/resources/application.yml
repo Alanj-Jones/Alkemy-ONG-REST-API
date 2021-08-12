@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://s3.us-east-2.amazonaws.com
+  accessKey: AKIAQHDHG2FHZH23M5UY
+  secretKey: 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
+  bucketName: ong38alkemy
